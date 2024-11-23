@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: MIT
-// File: @uniswap/v3-core/contracts/interfaces/callback/IUniswapV3SwapCallback.sol
-
+// File: @uniswap/v3-core/contracts/interfaces/callback
 
 pragma solidity >=0.5.0;
 
