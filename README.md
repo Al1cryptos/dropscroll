@@ -1,2 +1,2 @@
 Hi to all.
-I am in crypto airdrop.
+I am in crypto.
